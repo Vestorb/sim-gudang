@@ -117,6 +117,10 @@ Contoh:
 |-----------|
 | ![](images/supplier.PNG) |
 
+| Gudang |
+|-----------|
+| ![](images/gudang.PNG) |
+
 | Barang |
 |---------|
 | ![](images/barang.PNG) |
