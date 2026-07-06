@@ -131,7 +131,7 @@ Contoh:
 
 ---
 
-# 👥 Tim Pengembang
+# 👥 Nama Anggota
 
 | No | Nama | NIM |
 |----|----------------------|-----------|
