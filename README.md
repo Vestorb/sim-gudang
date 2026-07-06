@@ -127,7 +127,7 @@ Contoh:
 
 | Barang Masuk | Barang Keluar |
 |----------------|--------------|
-| ![](images/barang-masuk.PNG) | ![](images/barang-keluar.png) |
+| ![](images/barang-masuk.PNG) | ![](images/barang-keluar.PNG) |
 
 ---
 
