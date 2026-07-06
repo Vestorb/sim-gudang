@@ -101,7 +101,7 @@ php artisan serve
 
 # 📷 Screenshot
 
-Tambahkan screenshot aplikasi di sini.
+Tampilan screenshot aplikasi.
 
 Contoh:
 
