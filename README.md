@@ -107,15 +107,27 @@ Contoh:
 
 | Dashboard |
 |-----------|
-| ![](images/dashboard.png) |
+| ![](images/dashboard.PNG) |
 
-| Barang | Barang Masuk |
+| Kategori |
+|-----------|
+| ![](images/kategori.PNG) |
+
+| Supplier |
+|-----------|
+| ![](images/supplier.PNG) |
+
+| Supplier |
+|-----------|
+| ![](images/gudang.PNG) |
+
+| Barang |
 |---------|--------------|
-| ![](images/barang.png) | ![](images/barang-masuk.png) |
+| ![](images/barang.PNG) |
 
-| Barang Keluar |
+| Barang Masuk | Barang Keluar |
 |----------------|
-| ![](images/barang-keluar.png) |
+| ![](images/barang-masuk.PNG) | ![](images/barang-keluar.png) |
 
 ---
 
@@ -131,4 +143,4 @@ Contoh:
 
 ## 📄 License
 
-Project ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Web / Sistem Informasi Gudang**.
+Project ini dibuat untuk memenuhi UAS mata kuliah **Sistem Informasi Gudang**.
