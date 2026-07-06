@@ -145,6 +145,6 @@ Contoh:
 
 ---
 
-## 📄 License
+## 📄 Tujuan
 
-Project ini dibuat untuk memenuhi UAS mata kuliah **Sistem Informasi Gudang**.
+Project ini dibuat untuk memenuhi UAS mata kuliah **Sistem Informasi Manajemen**.
