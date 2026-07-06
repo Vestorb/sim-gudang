@@ -135,7 +135,7 @@ Contoh:
 
 | No | Nama | NIM |
 |----|----------------------|-----------|
-| 1 | Aristya Novandhika | 251220021 |
+| 1 | Aristya Novandhika | 251220016 |
 | 2 | Moh Luthfi Wardhana | 251220022 |
 | 3 | Ferdy Maulana | 251220039 |
 
