@@ -122,11 +122,11 @@ Contoh:
 | ![](images/gudang.PNG) |
 
 | Barang |
-|---------|--------------|
+|---------|
 | ![](images/barang.PNG) |
 
 | Barang Masuk | Barang Keluar |
-|----------------|
+|----------------|--------------|
 | ![](images/barang-masuk.PNG) | ![](images/barang-keluar.png) |
 
 ---
