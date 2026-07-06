@@ -129,6 +129,14 @@ Contoh:
 |----------------|--------------|
 | ![](images/barang-masuk.PNG) | ![](images/barang-keluar.PNG) |
 
+| Laporan Barang |
+|---------|
+| ![](images/laporan-barang.PNG) |
+
+| Laporan Barang Masuk | Laporan Barang Keluar |
+|----------------|--------------|
+| ![](images/laporan-barang-masuk.PNG) | ![](images/laporan-barang-keluar.PNG) |
+
 ---
 
 # 👥 Nama Anggota
